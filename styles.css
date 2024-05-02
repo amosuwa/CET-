@@ -8,7 +8,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    background-color: #f0f0f0; /* Updated background color */
+    background-color: #f0f0f0; 
     color: #333;
 }
 
@@ -52,7 +52,7 @@ nav ul li a:hover {
 
 
 #hero {
-    background-image: url('img/background\ logo.png');
+    background-image: url('background\ logo.png');
     background-size: cover;
     text-align: center;
     padding: 100px 0;
